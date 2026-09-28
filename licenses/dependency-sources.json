@@ -1,0 +1,349 @@
+[
+  {
+    "name": "altgraph",
+    "version": "0.17.5",
+    "url": "https://files.pythonhosted.org/packages/7e/f8/97fdf103f38fed6792a1601dbc16cc8aac56e7459a9fff08c812d8ae177a/altgraph-0.17.5.tar.gz",
+    "file": "altgraph-0.17.5.tar.gz",
+    "sha256": "c87b395dd12fabde9c99573a9749d67da8d29ef9de0125c7f536699b4a9bc9e7",
+    "project_urls": {
+      "Documentation": "https://altgraph.readthedocs.io/en/latest/",
+      "Download": "http://pypi.python.org/pypi/altgraph",
+      "Homepage": "https://altgraph.readthedocs.io",
+      "Issue tracker": "https://github.com/ronaldoussoren/altgraph/issues",
+      "Repository": "https://github.com/ronaldoussoren/altgraph"
+    }
+  },
+  {
+    "name": "anyio",
+    "version": "4.15.1",
+    "url": "https://files.pythonhosted.org/packages/a9/d2/f4d173e22df740bc37b1db102b386ba719b66e95b0f0d751f556b387e6d2/anyio-4.15.1.tar.gz",
+    "file": "anyio-4.15.1.tar.gz",
+    "sha256": "9f28306018cbd6d329e64a36d58256edff76dd996fe423bc957326e578b82a94",
+    "project_urls": {
+      "Changelog": "https://anyio.readthedocs.io/en/stable/versionhistory.html",
+      "Documentation": "https://anyio.readthedocs.io/en/latest/",
+      "Issue tracker": "https://github.com/agronholm/anyio/issues",
+      "Source code": "https://github.com/agronholm/anyio"
+    }
+  },
+  {
+    "name": "av",
+    "version": "18.1.0",
+    "url": "https://files.pythonhosted.org/packages/8d/f4/f22114d30d3435e38c6af2b4870f37b864403dca6ae7af747a289ce0a18e/av-18.1.0.tar.gz",
+    "file": "av-18.1.0.tar.gz",
+    "sha256": "47bfc286e1bc9de7ab4681fc2b575cd2460a66919d31ffe1bd5aa54fae531a28",
+    "project_urls": {
+      "Bug Tracker": "https://github.com/PyAV-Org/PyAV/issues",
+      "Source Code": "https://github.com/PyAV-Org/PyAV",
+      "homepage": "https://pyav.basswood.io"
+    }
+  },
+  {
+    "name": "certifi",
+    "version": "2026.7.22",
+    "file": "certifi-2026.7.22.tar.gz",
+    "sha256": "741e2c3b351ddf169a738da9f2c048608ff7f2c5cc02f1ebc6b118bb090d5d55",
+    "source_page": "https://pypi.org/project/certifi/2026.7.22/"
+  },
+  {
+    "name": "click",
+    "version": "8.5.0",
+    "url": "https://files.pythonhosted.org/packages/c7/0e/7fa0ef50764b67090eca4114772a2abf8b6148198475e54c660b97caeee6/click-8.5.0.tar.gz",
+    "file": "click-8.5.0.tar.gz",
+    "sha256": "ba0d2089de75ea0310e2dde03160e6ca10009947fb95a182f9b54021bb272e34",
+    "project_urls": {
+      "Changes": "https://click.palletsprojects.com/page/changes/",
+      "Chat": "https://discord.gg/pallets",
+      "Documentation": "https://click.palletsprojects.com/",
+      "Donate": "https://palletsprojects.com/donate",
+      "Source": "https://github.com/pallets/click/"
+    }
+  },
+  {
+    "name": "colorama",
+    "version": "0.4.6",
+    "url": "https://files.pythonhosted.org/packages/d8/53/6f443c9a4a8358a93a6792e2acffb9d9d5cb0a5cfd8802644b7b1c9a02e4/colorama-0.4.6.tar.gz",
+    "file": "colorama-0.4.6.tar.gz",
+    "sha256": "08695f5cb7ed6e0531a20572697297273c47b8cae5a63ffc6d6ed5c201be6e44",
+    "project_urls": {
+      "Homepage": "https://github.com/tartley/colorama"
+    }
+  },
+  {
+    "name": "ctranslate2",
+    "version": "4.8.2",
+    "url": "https://codeload.github.com/OpenNMT/CTranslate2/tar.gz/refs/tags/v4.8.2",
+    "file": "ctranslate2-4.8.2-source.tar.gz",
+    "sha256": "a15fdd27842ac80e73c4a0e2ae8ee32c990db88563b6b012db009128872ab730",
+    "project_urls": {
+      "Documentation": "https://opennmt.net/CTranslate2",
+      "Forum": "https://forum.opennmt.net",
+      "Gitter": "https://gitter.im/OpenNMT/CTranslate2",
+      "Homepage": "https://opennmt.net",
+      "Source": "https://github.com/OpenNMT/CTranslate2"
+    }
+  },
+  {
+    "name": "faster-whisper",
+    "version": "1.2.1",
+    "url": "https://codeload.github.com/SYSTRAN/faster-whisper/tar.gz/refs/tags/v1.2.1",
+    "file": "faster-whisper-1.2.1-source.tar.gz",
+    "sha256": "ff0b5428b3a074cd63f580ae73fa21f7d9fd3bba28e0e2e097868d78d5b06f2f",
+    "project_urls": {
+      "Homepage": "https://github.com/SYSTRAN/faster-whisper"
+    }
+  },
+  {
+    "name": "filelock",
+    "version": "4.0.3",
+    "url": "https://files.pythonhosted.org/packages/4f/b8/9ba8f569df649beb7058db5eb392a5f779bdbc3b82cf3942f0be439fb99e/filelock-4.0.3.tar.gz",
+    "file": "filelock-4.0.3.tar.gz",
+    "sha256": "87296d60478e14204fd9406e79831400fef76693bae2895deec236c98e87a8aa",
+    "source_page": "https://pypi.org/project/filelock/4.0.3/"
+  },
+  {
+    "name": "flatbuffers",
+    "version": "25.12.19",
+    "url": "https://codeload.github.com/google/flatbuffers/tar.gz/refs/tags/v25.12.19",
+    "file": "flatbuffers-25.12.19-source.tar.gz",
+    "sha256": "f81c3162b1046fe8b84b9a0dbdd383e24fdbcf88583b9cb6028f90d04d90696a",
+    "project_urls": {
+      "Documentation": "https://google.github.io/flatbuffers/",
+      "Homepage": "https://google.github.io/flatbuffers/",
+      "Source": "https://github.com/google/flatbuffers"
+    }
+  },
+  {
+    "name": "fsspec",
+    "version": "2026.9.0",
+    "url": "https://files.pythonhosted.org/packages/77/cd/9be253869fc42e764de7f3dedd6969af7d44ff9c3375214a3442a6f3fc08/fsspec-2026.9.0.tar.gz",
+    "file": "fsspec-2026.9.0.tar.gz",
+    "sha256": "0f08147951c8cb31d844c3547d631053b127863b60be04cf06e121333ee0e2fe",
+    "project_urls": {
+      "Changelog": "https://filesystem-spec.readthedocs.io/en/latest/changelog.html",
+      "Documentation": "https://filesystem-spec.readthedocs.io/en/latest/",
+      "Homepage": "https://github.com/fsspec/filesystem_spec"
+    }
+  },
+  {
+    "name": "h11",
+    "version": "0.16.0",
+    "url": "https://files.pythonhosted.org/packages/01/ee/02a2c011bdab74c6fb3c75474d40b3052059d95df7e73351460c8588d963/h11-0.16.0.tar.gz",
+    "file": "h11-0.16.0.tar.gz",
+    "sha256": "4e35b956cf45792e4caa5885e69fba00bdbc6ffafbfa020300e549b208ee5ff1",
+    "project_urls": {
+      "Homepage": "https://github.com/python-hyper/h11"
+    }
+  },
+  {
+    "name": "hf-xet",
+    "version": "1.6.0",
+    "url": "https://files.pythonhosted.org/packages/1b/ab/522a2ab67f27971a9d48ca666d4fca85ef7d5282d142e31fd087e27b1bbe/hf_xet-1.6.0.tar.gz",
+    "file": "hf_xet-1.6.0.tar.gz",
+    "sha256": "2e58454a340b3556dfa4972d5451aff4fba8dd42a236600ba1a1d2b1514f0fef",
+    "project_urls": {
+      "Documentation": "https://huggingface.co/docs/hub/xet/index",
+      "Homepage": "https://github.com/huggingface/xet-core",
+      "Issues": "https://github.com/huggingface/xet-core/issues",
+      "Repository": "https://github.com/huggingface/xet-core.git"
+    }
+  },
+  {
+    "name": "httpcore",
+    "version": "1.0.9",
+    "url": "https://files.pythonhosted.org/packages/06/94/82699a10bca87a5556c9c59b5963f2d039dbd239f25bc2a63907a05a14cb/httpcore-1.0.9.tar.gz",
+    "file": "httpcore-1.0.9.tar.gz",
+    "sha256": "6e34463af53fd2ab5d807f399a9b45ea31c3dfa2276f15a2c3f00afff6e176e8",
+    "project_urls": {
+      "Documentation": "https://www.encode.io/httpcore",
+      "Homepage": "https://www.encode.io/httpcore/",
+      "Source": "https://github.com/encode/httpcore"
+    }
+  },
+  {
+    "name": "httpx",
+    "version": "0.28.1",
+    "url": "https://files.pythonhosted.org/packages/b1/df/48c586a5fe32a0f01324ee087459e112ebb7224f646c0b5023f5e79e9956/httpx-0.28.1.tar.gz",
+    "file": "httpx-0.28.1.tar.gz",
+    "sha256": "75e98c5f16b0f35b567856f597f06ff2270a374470a5c2392242528e3e3e42fc",
+    "project_urls": {
+      "Changelog": "https://github.com/encode/httpx/blob/master/CHANGELOG.md",
+      "Documentation": "https://www.python-httpx.org",
+      "Homepage": "https://github.com/encode/httpx",
+      "Source": "https://github.com/encode/httpx"
+    }
+  },
+  {
+    "name": "huggingface_hub",
+    "version": "1.33.0",
+    "url": "https://files.pythonhosted.org/packages/25/2a/484d112c0d8fc5f665d7b65137ac9cdb2953c982391598c3597968a12ee7/huggingface_hub-1.33.0.tar.gz",
+    "file": "huggingface_hub-1.33.0.tar.gz",
+    "sha256": "367be21a201db9523eddf8aeac7048f2602c1b308691c97640d5e72ed188007e",
+    "project_urls": {
+      "Homepage": "https://github.com/huggingface/huggingface_hub"
+    }
+  },
+  {
+    "name": "idna",
+    "version": "3.20",
+    "url": "https://files.pythonhosted.org/packages/f5/08/8eea9d4b8302028f3abb2c0813953f7aec26d33b7a8960ed760e65ff29fa/idna-3.20.tar.gz",
+    "file": "idna-3.20.tar.gz",
+    "sha256": "a7db850025b95ded1eae8a46181a1a6c56c92c96f0e2b005d9ff8dc0210cab44",
+    "project_urls": {
+      "Changelog": "https://github.com/kjd/idna/blob/master/HISTORY.md",
+      "Issue tracker": "https://github.com/kjd/idna/issues",
+      "Source": "https://github.com/kjd/idna"
+    }
+  },
+  {
+    "name": "numpy",
+    "version": "2.5.3",
+    "url": "https://files.pythonhosted.org/packages/13/01/11703282db468b85f6f7b8c7f22d058de5970d5c7e60a3a8aaa313c3de36/numpy-2.5.3.tar.gz",
+    "file": "numpy-2.5.3.tar.gz",
+    "sha256": "df2d5874ff183595a4ba404edd04f6bd9b5505c1d7708573f6a6c17489a67563",
+    "project_urls": {
+      "documentation": "https://numpy.org/doc/",
+      "download": "https://pypi.org/project/numpy/#files",
+      "homepage": "https://numpy.org",
+      "release notes": "https://numpy.org/doc/stable/release",
+      "source": "https://github.com/numpy/numpy",
+      "tracker": "https://github.com/numpy/numpy/issues"
+    }
+  },
+  {
+    "name": "onnxruntime",
+    "version": "1.30.0",
+    "file": "onnxruntime-1.30.0-source.tar.gz",
+    "sha256": "f6681ecbddf53898adf0cc9e8e9e84657485b84d2eca3c8aa353de6d7dd417ef",
+    "source_page": "https://pypi.org/project/onnxruntime/1.30.0/"
+  },
+  {
+    "name": "packaging",
+    "version": "26.3",
+    "url": "https://files.pythonhosted.org/packages/7d/fa/3944b40b07da9ce895c0e6303a5ab7d53da063554f534556b134a54d6093/packaging-26.3.tar.gz",
+    "file": "packaging-26.3.tar.gz",
+    "sha256": "94edc256424af38762eb31306eed28beb9f0efc50a8837492c9d6fd6004aed79",
+    "project_urls": {
+      "Documentation": "https://packaging.pypa.io/",
+      "Source": "https://github.com/pypa/packaging"
+    }
+  },
+  {
+    "name": "pefile",
+    "version": "2023.2.7",
+    "file": "pefile-2023.2.7.tar.gz",
+    "sha256": "82e6114004b3d6911c77c3953e3838654b04511b8b66e8583db70c65998017dc",
+    "source_page": "https://pypi.org/project/pefile/2023.2.7/"
+  },
+  {
+    "name": "protobuf",
+    "version": "7.36.2",
+    "url": "https://files.pythonhosted.org/packages/d9/89/5b8517baa72f84a67b8a307ba953c91057af618bf40bf676f3c03551f8f0/protobuf-7.36.2.tar.gz",
+    "file": "protobuf-7.36.2.tar.gz",
+    "sha256": "497d0463ff3316681da6c0b9e8d06cb465d61abce00b613ab42226175644d1bb",
+    "project_urls": {
+      "Homepage": "https://developers.google.com/protocol-buffers/"
+    }
+  },
+  {
+    "name": "pyinstaller",
+    "version": "6.16.0",
+    "url": "https://files.pythonhosted.org/packages/94/94/1f62e95e4a28b64cfbb5b922ef3046f968b47170d37a1e1a029f56ac9cb4/pyinstaller-6.16.0.tar.gz",
+    "file": "pyinstaller-6.16.0.tar.gz",
+    "sha256": "53559fe1e041a234f2b4dcc3288ea8bdd57f7cad8a6644e422c27bb407f3edef",
+    "project_urls": {
+      "Documentation": "https://pyinstaller.org",
+      "Homepage": "https://pyinstaller.org",
+      "Release Notes": "https://pyinstaller.org/en/stable/CHANGES.html",
+      "Source Code": "https://github.com/pyinstaller/pyinstaller"
+    }
+  },
+  {
+    "name": "pyinstaller-hooks-contrib",
+    "version": "2026.7",
+    "url": "https://files.pythonhosted.org/packages/26/60/d881fa1ba8c160c18d8e6f782bb16ec4640c08bc08fc50f704c368ad4f9e/pyinstaller_hooks_contrib-2026.7.tar.gz",
+    "file": "pyinstaller_hooks_contrib-2026.7.tar.gz",
+    "sha256": "5fbcaacb22c4f4aac869a127dce283f67a4b4cfcc37d496f2446603e6d68aefa",
+    "project_urls": {
+      "Download": "https://pypi.org/project/pyinstaller-hooks-contrib",
+      "Homepage": "https://github.com/pyinstaller/pyinstaller-hooks-contrib"
+    }
+  },
+  {
+    "name": "pywin32-ctypes",
+    "version": "0.2.3",
+    "url": "https://files.pythonhosted.org/packages/85/9f/01a1a99704853cb63f253eea009390c88e7131c67e66a0a02099a8c917cb/pywin32-ctypes-0.2.3.tar.gz",
+    "file": "pywin32-ctypes-0.2.3.tar.gz",
+    "sha256": "d162dc04946d704503b2edc4d55f3dba5c1d539ead017afa00142c38b9885755",
+    "project_urls": {
+      "Homepage": "https://github.com/enthought/pywin32-ctypes"
+    }
+  },
+  {
+    "name": "PyYAML",
+    "version": "6.0.3",
+    "url": "https://files.pythonhosted.org/packages/05/8e/961c0007c59b8dd7729d542c61a4d537767a59645b82a0b521206e1e25c2/pyyaml-6.0.3.tar.gz",
+    "file": "pyyaml-6.0.3.tar.gz",
+    "sha256": "d76623373421df22fb4cf8817020cbb7ef15c725b9d5e45f17e189bfc384190f",
+    "project_urls": {
+      "Bug Tracker": "https://github.com/yaml/pyyaml/issues",
+      "CI": "https://github.com/yaml/pyyaml/actions",
+      "Documentation": "https://pyyaml.org/wiki/PyYAMLDocumentation",
+      "Download": "https://pypi.org/project/PyYAML/",
+      "Homepage": "https://pyyaml.org/",
+      "Mailing lists": "http://lists.sourceforge.net/lists/listinfo/yaml-core",
+      "Source Code": "https://github.com/yaml/pyyaml"
+    }
+  },
+  {
+    "name": "setuptools",
+    "version": "84.0.0",
+    "url": "https://files.pythonhosted.org/packages/6d/44/f5da03a8ef95d369145c5bb53050e7877c9f3d312e128605fd9504829143/setuptools-84.0.0.tar.gz",
+    "file": "setuptools-84.0.0.tar.gz",
+    "sha256": "f4695c21257f0d9b537ec2692c941d02ee143b7cc1276941349a546573b2ef73",
+    "project_urls": {
+      "Changelog": "https://setuptools.pypa.io/en/stable/history.html",
+      "Documentation": "https://setuptools.pypa.io/",
+      "Source": "https://github.com/pypa/setuptools"
+    }
+  },
+  {
+    "name": "tokenizers",
+    "version": "0.23.2",
+    "url": "https://files.pythonhosted.org/packages/18/1e/bc6587c5ab643b2e17776cace9070a2ae73549c86bffac9934a600bf3c31/tokenizers-0.23.2.tar.gz",
+    "file": "tokenizers-0.23.2.tar.gz",
+    "sha256": "7f0f085686b9de0d0079e6f874ae053600db64c5d13049e0bbc0119926d25aac",
+    "project_urls": {
+      "Homepage": "https://github.com/huggingface/tokenizers",
+      "Source": "https://github.com/huggingface/tokenizers"
+    }
+  },
+  {
+    "name": "tqdm",
+    "version": "4.70.1",
+    "url": "https://files.pythonhosted.org/packages/0d/ea/b2a5bd54b28a324dae8211928b2d730b6547500342c7e6c6dea08bd0a485/tqdm-4.70.1.tar.gz",
+    "file": "tqdm-4.70.1.tar.gz",
+    "sha256": "cefd0eca11b2a37a3aee776544d4f4ae913f02688135b5556b8788dfa474afc4",
+    "project_urls": {
+      "changelog": "https://tqdm.github.io/releases",
+      "homepage": "https://tqdm.github.io",
+      "repository": "https://github.com/tqdm/tqdm",
+      "wiki": "https://github.com/tqdm/tqdm/wiki"
+    }
+  },
+  {
+    "name": "typing_extensions",
+    "version": "4.16.0",
+    "url": "https://files.pythonhosted.org/packages/f6/cc/6253133b5bb138fc3306cebfbda2c520f545d36b5be2c7255cc528bb45d6/typing_extensions-4.16.0.tar.gz",
+    "file": "typing_extensions-4.16.0.tar.gz",
+    "sha256": "dc983d19a509c94dba722ee6abd33940f7c05a89e243c47e907eb4db6f1a43e5",
+    "project_urls": {
+      "Bug Tracker": "https://github.com/python/typing_extensions/issues",
+      "Changes": "https://github.com/python/typing_extensions/blob/main/CHANGELOG.md",
+      "Documentation": "https://typing-extensions.readthedocs.io/",
+      "Home": "https://github.com/python/typing_extensions",
+      "Q & A": "https://github.com/python/typing/discussions",
+      "Repository": "https://github.com/python/typing_extensions"
+    }
+  }
+]
